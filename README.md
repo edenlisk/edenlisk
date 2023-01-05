@@ -34,6 +34,8 @@
 
 <img align ="center" src="https://github-readme-stats.vercel.app/api?username=edenlisk&theme=tokyonight&show_icons=true"/>
 <img align ="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edenlisk&theme=tokyonight&show_icons=true"/>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=edenlisk&&theme=tokyonight&show_icons=true" alt="eden-streak-status" />
+
 
 ---
 
