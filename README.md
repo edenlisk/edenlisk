@@ -2,14 +2,12 @@
 <img src="https://indoanalytica.com/static/images/bannerr.gif">
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
 
-### I'm a Full-Stack Developer, Ethical Hacker living in Kigali, Rwanda.
+### I'm a Full-Stack Developer living in Kigali, Rwanda.
 
 
-- 🏢 I'm currently studying at **Microverse**
+- 🏢 I'm currently pursuing a bachelor's degree in Software Engineering at **Adventist University of Central Africa**
 
-- 📙 Learning: **React Js, Data Structure, Ruby, Ruby on Rails**
-  
-- 🔭 I’m currently working on **API projects**
+- 📙 Learning: **React Js, Data Structure, Nodejs, Expressjs, MongoDB, Mongoose, Java, Spring Framework, Spring Boot3, Hibernate, MySQL, Postgress**
 
 - 🌱 Learning all about **Open Source**
 
@@ -25,7 +23,7 @@
 
 <h2  align="center">📫 Connect With Me:</h2>
 <p align="center">
-  <a target="_blank"href="https://www.linkedin.com/in/nsanzimfura-enock-nkumbuyedeni-ba33141b5/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a target="_blank"href="https://www.linkedin.com/in/nsanzimfura-enock-nkumbuyedeni"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="mailto:contato.nkumbuyenock@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a target="_blank"href="https://wa.me/250786957549"><img  height= "29"src="https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=250785478696" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
