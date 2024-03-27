@@ -11,7 +11,7 @@
 
 - 🌱 Learning all about **Open Source**
 
-- 💅 Designed: [Concert Website](https://edenlisk.github.io/concert-website/), [LeaderBoard](https://edenlisk.github.io/Leaderboard/dist/), etc…
+- 💅 Designed: [School Library Management System](https://library-management-system-lc5l.onrender.com/), [Mineral Traceability & Inventory Management System](https://mining-database-web-app.onrender.com/login), etc…
   
 - 😄 Pronouns: He/Him
   
